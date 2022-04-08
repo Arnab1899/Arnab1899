@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mir Arnab Kabir
-#### Data Scientist | Feature Writer | Researcher
+#### Data Scientist | Feature Writer | Researcher | Tech Enthusiast 
 ![Data Scientist | Feature Writer | Researcher](https://www.uap-bd.edu/img/logo.png)
 
 I'm Mir Arnab Kabir, a final year CSE undergrad student at the University of Asia Pacific. Currently, I am learning Data Science & Machine Learning. I am very interested in the research-based study. Also, I enjoy learning about Data Science and Machine learning also research stuffs. Without this academic thing, I am a Feature Writer and Script Creator. You can check out my work at https://roar.media/profile/arnab/articles.
