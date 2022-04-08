@@ -16,12 +16,14 @@ I'm Mir Arnab Kabir, a final year CSE undergrad student at the University of Asi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab1899)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Arnab1899)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnab1899&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arnab1899)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Arnab1899)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Arnab1899)  
+
 
 
