@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mir Arnab Kabir
 #### Computer Engineer | SQA Enthusiast | Python | Django | Selenium | Postman | MySQL | Software Development Methodology
-(https://www.uap-bd.edu/img/logo.png)
 
 I'm Mir Arnab Kabir. I completed my B.S.c. in engineering and computer science at the University of Asia Pacific -UAP. 
 
