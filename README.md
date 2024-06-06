@@ -2,10 +2,23 @@
 #### Data Scientist | Feature Writer | Researcher | Tech Enthusiast 
 ![Data Scientist | Feature Writer | Researcher](https://www.uap-bd.edu/img/logo.png)
 
-I'm Mir Arnab Kabir, a final year CSE undergrad student at the University of Asia Pacific. Currently, I am learning Data Science & Machine Learning. I am very interested in the research-based study. Also, I enjoy learning about Data Science and Machine learning also research stuffs. Without this academic thing, I am a Feature Writer and Script Creator. You can check out my work at https://roar.media/profile/arnab/articles.
+I'm Mir Arnab Kabir. I completed my B.S.c. in engineering and computer science at the University of Asia Pacific -UAP. 
 
-- 🔭 I’m currently working on Covid-19 health related research with Machine Learning 
-- 🌱 I’m currently learning Data Science & Machine Learning 
+I am experienced in WordPress development and maintenance environments with a solid foundation in developing machine learning models gained through academic research. Enthusiastic to engage in the newest technological environments by learning new programming languages and exploring new domains to foster professional and personal growth. The key objective is to utilize academic knowledge and practical experience in a progressive company, focusing on software development software testing and machine learning.
+
+##Tecnical Tools and Knowledge that I Know:
+
+Programming Language: C/C++, Python, Java
+Framework: Django, FastAPI
+Web Content Management System: WordPress
+Development Methodology: Waterfall, Agile, DevOps
+Fundamentals of QA: Software Development Life Cycle, Fundamental of Software Testing, Testing
+Methodologies, Test Case, and Test Scenario
+Machine Learning: Fundamental Machine Learning, Artificial Neural Networks, Convolutional
+Neural Networks, Deep Neural Networks, Natural Language Processing, Large Language Model
+Testing Tool: Selenium, JMeter, Postman
+Database Technology: MySQL
+DevOps/Tool: Git, Docker Canva, Figma, Draw.io
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](18201018@uap-bd.edu)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mir-arnab-kabir-7546a7194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/arnab.kabir.56)   
 - ⚡ Fun fact: I am also a Translator, Writer and Football Analyst 
 
