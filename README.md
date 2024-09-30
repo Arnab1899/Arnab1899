@@ -11,17 +11,11 @@ Programming Language: C/C++, Python, Java
 
 Framework: Django, FastAPI
 
-Web Content Management System: WordPress
-
 Development Methodology: Waterfall, Agile, DevOps
 
 Fundamentals of QA: Software Development Life Cycle, Fundamental of Software Testing, Testing
 
 Methodologies, Test Case, and Test Scenario
-
-Machine Learning: Fundamental Machine Learning, Artificial Neural Networks, Convolutional
-
-Neural Networks, Deep Neural Networks, Natural Language Processing, Large Language Model
 
 Testing Tool: Selenium, JMeter, Postman
 
